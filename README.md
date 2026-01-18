@@ -31,7 +31,7 @@ Nexus is a demonstration of a unified digital governance platform connecting cit
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd nexus
+cd debuging-wizards
 ```
 
 ### 2. Backend Setup
